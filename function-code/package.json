@@ -1,0 +1,15 @@
+{
+  "name": "function-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-lambda-fastify": "^2.1.6",
+    "fastify": "^3.29.0"
+  }
+}
